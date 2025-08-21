@@ -35,7 +35,7 @@ python src/main.py
 ```
 ### Вариант 2: интерактивный анализ
 ```bash
-jupyter notebook notebooks/analysis.ipynb
+jupyter notebook notebooks/main.ipynb
 ```
 
 ---

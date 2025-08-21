@@ -47,8 +47,8 @@ jupyter notebook notebooks/main.ipynb
 ## 📂 Структура проекта
 ```bash
 project/
-│── data/            # входные CSV
-│── src/             # код
+│── data/            
+│── src/             
 │   ├── data_loader.py
 │   ├── snapshots.py
 │   ├── overdue.py

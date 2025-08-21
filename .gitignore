@@ -1,0 +1,41 @@
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+.env
+.venv
+venv/
+ENV/
+*.sqlite3
+
+# === Jupyter Notebook ===
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# === VS Code / PyCharm ===
+.vscode/
+.idea/
+
+# === OS specific ===
+.DS_Store
+Thumbs.db
+
+# === Data & Plots ===
+data/
+plots/
+
+# === Logs & temp ===
+*.log
+*.tmp
+*.bak
+
+# === Virtual environment ===
+*.env
+*.ini
+
+# === Reports ===
+*.pdf
+*.docx
